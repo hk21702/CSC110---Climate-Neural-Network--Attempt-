@@ -1,0 +1,8 @@
+.venv
+.vscode
+logs/*
+data/cache/*
+data/daily_values/*
+data/testing
+_*
+pyta_report.html
